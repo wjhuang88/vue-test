@@ -1,0 +1,24 @@
+{
+  "name": "vue-test",
+  "version": "1.0.0",
+  "description": "vuejs learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wjhuang88/vue-test.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "learning"
+  ],
+  "author": "Huang.Weijie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjhuang88/vue-test/issues"
+  },
+  "homepage": "https://github.com/wjhuang88/vue-test#readme"
+}
